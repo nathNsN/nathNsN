@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 
  <div>
   <a href = "mailto: nathansantos3211@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white"  target="_blank"></a>
-  <a href="https://www.linkedin.com/in/nathan-nascimento-017512137" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/nathan-nascimento-017512137" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/nathan.nsn" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
