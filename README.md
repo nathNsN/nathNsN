@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 </div>
 
 <div style="display: inline_block"><br>
- <img align="center" alt="NathNsN-C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"> 
- <img align="center" alt="NathNsN-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"> 
+    <img align="center" alt="NathNsN-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"> 
+    <img align="center" alt="NathNsN-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"> 
  </div>
     
 ##
