@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 
 <div style="display: inline_block"><br>
     <img align="center" alt="NathNsN-rust" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg">
+    <img align="center" alt="NathNsN-delphi" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968252.png">
     <img align="center" alt="NathNsN-ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
     <img align="center" alt="NathNsN-nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
     <img align="center" alt="NathNsN-reactjs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"> 
@@ -29,8 +30,8 @@ Here are some ideas to get you started:
     <img align="center" alt="NathNsN-kubernetes" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"> 
     <img align="center" alt="NathNsN-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
     <img align="center" alt="NathNsN-grafana" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg">
-    <img align="center" alt="NathNsN-grafana" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg">
-    <img align="center" alt="NathNsN-grafana" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg">
+    <img align="center" alt="NathNsN-docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg">
+    <img align="center" alt="NathNsN-terraform" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg">
  </div>
     
 ##
