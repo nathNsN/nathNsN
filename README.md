@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 </div>
 
 <div style="display: inline_block"><br>
-    <img align="center" alt="NathNsN-rust" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg">
+    <img align="center" alt="NathNsN-rust" height="30" width="40" src="https://static-00.iconduck.com/assets.00/rust-icon-2048x2047-5s6wkmk1.png">
     <img align="center" alt="NathNsN-delphi" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968252.png">
     <img align="center" alt="NathNsN-ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
     <img align="center" alt="NathNsN-nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
