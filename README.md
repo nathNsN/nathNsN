@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 </div>
 
 <div style="display: inline_block"><br>
-    <img align="center" alt="NathNsN-rust" height="36" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg">  
+    <img align="center" alt="NathNsN-rust" height="36" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-line.svg">  
     <img align="center" alt="NathNsN-nestJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg">
     <img align="center" alt="NathNsN-reactjs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"> 
     <img align="center" alt="NathNsN-delphi" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968252.png">
